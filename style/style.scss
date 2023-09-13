@@ -189,6 +189,17 @@ body {
   background: url('../img/filler.png') center center/cover;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 .button {
   padding: 10px 20px;
   border: 2px solid #fff;
@@ -274,7 +285,10 @@ body {
   color: #444649;
   position: relative;
 }
-
+.madhav{
+  color: white!important;
+  padding-bottom: 15px!important;
+}
 .header-bar {
   margin: 25px 0 75px 0;
   width: 70px;
@@ -293,7 +307,7 @@ nav {
   height: 50px;
   width: 100%;
   background: $primary-darkest;
-  border-bottom: 3px solid $primary;
+  border-bottom: 3px solid white;
   text-align: left;
   z-index: 99;
 
@@ -976,7 +990,7 @@ footer {
   padding: 70px 0 50px 0;
   position: relative;
 
-  .mdi-chevron-double-up {
+  .mdi-arrow-up-drop-circle {
     position: absolute;
     top: -25px;
     background: $secondary;
@@ -1404,3 +1418,11 @@ footer {
   }
 
 }
+
+
+
+
+
+
+
+

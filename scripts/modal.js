@@ -3,36 +3,40 @@ $(document).ready(function(){
   // MODAL
   var modalText = {
     roambi: {
-      title: 'Roambi.com',
+      title: 'Tecknowscope Solutions',
       tag: 'BUSINESS ANALYTICS.',
-      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+      detail: 'Worked on www.lovemytest.com in Angular, TypeScript, Lambda APIs and AWS',
+      link: 'https://tecknowscope.com/'
     },
     walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
-      detail: 'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.',
+      title: 'Online Appointment Booking',
+      tag: 'Website | PHP, MySQL',
+      detail: 'Patients can book an appointment by checking the doctors distance.',
+      link: 'https://drive.google.com/drive/u/1/folders/1b9zK8eLEghUawA6a9sQF2LfeCKaxSat5?usp=sharing'
     },
     powur: {
-      title: 'Powur.com',
-      tag: 'MULTI-LEVEL MARKETING.',
-      detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      title: 'Face Mask Detector',
+      tag: 'Application| Python',
+      detail: ' It can be used for crowd monitoring.',
+      link: 'https://drive.google.com/drive/u/1/folders/1b9zK8eLEghUawA6a9sQF2LfeCKaxSat5?usp=sharing'
     },
     mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+      title: 'In Progress',
+      tag: 'No tag',
+      detail: 'Not completed yet.',
+     
     },
     never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+      title: 'Ideacan Technology Solutions',
+      tag: 'Software Developer, Banglore',
+      detail: 'Worked on http://www.aptitude.com and other companies in Angular and React both.',
+      link: 'https://www.linkedin.com/in/ideacan-technology-solutions-1a7b24209/'
     },
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+      title: 'Ideacan Technology Solutions',
+      tag: 'Software Developer, Banglore',
+      detail: 'Worked on http://www.aptitude.com and other companies in Angular and React both.',
+      link: 'https://www.linkedin.com/in/ideacan-technology-solutions-1a7b24209/'
     }
   };
 
